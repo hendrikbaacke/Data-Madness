@@ -1,6 +1,6 @@
 The OECD makes tax wedge numbers available for a few fixed household income situations.
 The most appropriate seemed the category of "single person at 167% of average wage".
-This is the most expensive category in all cases, so gives the most conservative result we can have
+This is the most expensive category in all cases, so gives the most conservative result we can have.
 
 The data was not available by api or scrapable.
 For OECD countries, the most recent numbers are from 2019.
