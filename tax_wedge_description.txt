@@ -1,0 +1,9 @@
+The OECD makes tax wedge numbers available for a few fixed household income situations.
+The most appropriate seemed the category of "single person at 167% of average wage".
+This is the most expensive category in all cases, so gives the most conservative result we can have
+
+The data was not available by api or scrapable.
+For OECD countries, the most recent numbers are from 2019.
+For other countries, they are from 2010-2013 as there was only a dated document available.
+http://compareyourcountry.org/taxing-wages/en/0/715/default/2019
+https://read.oecd-ilibrary.org/taxation/taxing-wages-in-latin-america-and-the-caribbean-2016/2013-tax-burdens_9789264262607-5-en#page1
