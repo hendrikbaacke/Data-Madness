@@ -1,0 +1,448 @@
+{
+    "name": "Portugal",
+    "currency": "USD",
+    "contributors12months": 895,
+    "monthLastUpdate": 3,
+    "contributors": 1642,
+    "yearLastUpdate": 2021,
+    "prices": [
+        {
+            "data_points": 392,
+            "item_id": 1,
+            "lowest_price": 5.973251778535717,
+            "average_price": 8.959877667803577,
+            "highest_price": 14.335804268485722,
+            "item_name": "Meal, Inexpensive Restaurant, Restaurants"
+        },
+        {
+            "data_points": 334,
+            "item_id": 2,
+            "lowest_price": 26.282307825557158,
+            "average_price": 35.839510671214306,
+            "highest_price": 65.70576956389289,
+            "item_name": "Meal for 2 People, Mid-range Restaurant, Three-course, Restaurants"
+        },
+        {
+            "data_points": 212,
+            "item_id": 3,
+            "lowest_price": 7.048437098672147,
+            "average_price": 7.167902134242861,
+            "highest_price": 8.362552489950005,
+            "item_name": "McMeal at McDonalds (or Equivalent Combo Meal), Restaurants"
+        },
+        {
+            "data_points": 318,
+            "item_id": 4,
+            "lowest_price": 1.1946503557071435,
+            "average_price": 2.1503706402728584,
+            "highest_price": 3.5839510671214305,
+            "item_name": "Domestic Beer (0.5 liter draught), Restaurants"
+        },
+        {
+            "data_points": 257,
+            "item_id": 5,
+            "lowest_price": 1.7919755335607153,
+            "average_price": 2.389300711414287,
+            "highest_price": 4.778601422828574,
+            "item_name": "Imported Beer (0.33 liter bottle), Restaurants"
+        },
+        {
+            "data_points": 394,
+            "item_id": 6,
+            "lowest_price": 1.1946503557071435,
+            "average_price": 1.5547404224032424,
+            "highest_price": 2.389300711414287,
+            "item_name": "Coke/Pepsi (0.33 liter bottle), Restaurants"
+        },
+        {
+            "data_points": 370,
+            "item_id": 7,
+            "lowest_price": 0.8362552489950004,
+            "average_price": 1.1220949798577038,
+            "highest_price": 1.7919755335607153,
+            "item_name": "Water (0.33 liter bottle) , Restaurants"
+        },
+        {
+            "data_points": 353,
+            "item_id": 8,
+            "lowest_price": 0.5734321707394289,
+            "average_price": 0.7565772644013183,
+            "highest_price": 1.015452802351072,
+            "item_name": "Milk (regular), (1 liter), Markets"
+        },
+        {
+            "data_points": 262,
+            "item_id": 9,
+            "lowest_price": 0.7167902134242861,
+            "average_price": 1.2953893011079263,
+            "highest_price": 2.389300711414287,
+            "item_name": "Loaf of Fresh White Bread (500g), Markets"
+        },
+        {
+            "data_points": 294,
+            "item_id": 11,
+            "lowest_price": 1.1468643415247324,
+            "average_price": 2.1221262912662833,
+            "highest_price": 3.1060909248385733,
+            "item_name": "Eggs (regular) (12), Markets"
+        },
+        {
+            "data_points": 231,
+            "item_id": 12,
+            "lowest_price": 4.778601422828574,
+            "average_price": 7.988300641244956,
+            "highest_price": 17.919755335607153,
+            "item_name": "Local Cheese (1kg), Markets"
+        },
+        {
+            "data_points": 260,
+            "item_id": 13,
+            "lowest_price": 0.22698356758435728,
+            "average_price": 0.608552674220775,
+            "highest_price": 1.4216339232915007,
+            "item_name": "Water (1.5 liter bottle), Markets"
+        },
+        {
+            "data_points": 235,
+            "item_id": 14,
+            "lowest_price": 2.9866258892678585,
+            "average_price": 4.778601422828574,
+            "highest_price": 8.362552489950005,
+            "item_name": "Bottle of Wine (Mid-Range), Markets"
+        },
+        {
+            "data_points": 235,
+            "item_id": 15,
+            "lowest_price": 0.7048437098672147,
+            "average_price": 1.2130473455774857,
+            "highest_price": 1.810076296525975,
+            "item_name": "Domestic Beer (0.5 liter bottle), Markets"
+        },
+        {
+            "data_points": 180,
+            "item_id": 16,
+            "lowest_price": 1.1349178379217864,
+            "average_price": 2.4176864207208326,
+            "highest_price": 3.5839510671214305,
+            "item_name": "Imported Beer (0.33 liter bottle), Markets"
+        },
+        {
+            "data_points": 152,
+            "item_id": 17,
+            "lowest_price": 5.7343217073942885,
+            "average_price": 5.973251778535717,
+            "highest_price": 6.5705769563892895,
+            "item_name": "Cigarettes 20 Pack (Marlboro), Markets"
+        },
+        {
+            "data_points": 277,
+            "item_id": 18,
+            "lowest_price": 1.4933129446339293,
+            "average_price": 1.9114405691314298,
+            "highest_price": 2.628230782555716,
+            "item_name": "One-way Ticket (Local Transport), Transportation"
+        },
+        {
+            "data_points": 249,
+            "item_id": 19,
+            "lowest_price": 2.9866258892678585,
+            "average_price": 5.909960838129316,
+            "highest_price": 8.362552489950005,
+            "item_name": "Chicken Fillets (1kg), Markets"
+        },
+        {
+            "data_points": 265,
+            "item_id": 20,
+            "lowest_price": 35.839510671214306,
+            "average_price": 47.78601422828574,
+            "highest_price": 47.78601422828574,
+            "item_name": "Monthly Pass (Regular Price), Transportation"
+        },
+        {
+            "data_points": 359,
+            "item_id": 24,
+            "lowest_price": 1.6127779802046438,
+            "average_price": 1.8095107447904106,
+            "highest_price": 1.9472800798026437,
+            "item_name": "Gasoline (1 liter), Transportation"
+        },
+        {
+            "data_points": 67,
+            "item_id": 25,
+            "lowest_price": 27357.493145693585,
+            "average_price": 29866.258892678587,
+            "highest_price": 32852.88478194645,
+            "item_name": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car), Transportation"
+        },
+        {
+            "data_points": 478,
+            "item_id": 26,
+            "lowest_price": 477.8601422828574,
+            "average_price": 705.966754527074,
+            "highest_price": 1075.1853201364293,
+            "item_name": "Apartment (1 bedroom) in City Centre, Rent Per Month"
+        },
+        {
+            "data_points": 434,
+            "item_id": 27,
+            "lowest_price": 358.39510671214305,
+            "average_price": 535.4617833840065,
+            "highest_price": 836.2552489950004,
+            "item_name": "Apartment (1 bedroom) Outside of Centre, Rent Per Month"
+        },
+        {
+            "data_points": 424,
+            "item_id": 28,
+            "lowest_price": 776.5227312096433,
+            "average_price": 1201.579187095837,
+            "highest_price": 2030.905604702144,
+            "item_name": "Apartment (3 bedrooms) in City Centre, Rent Per Month"
+        },
+        {
+            "data_points": 405,
+            "item_id": 29,
+            "lowest_price": 597.3251778535717,
+            "average_price": 869.0476740610095,
+            "highest_price": 1433.5804268485722,
+            "item_name": "Apartment (3 bedrooms) Outside of Centre, Rent Per Month"
+        },
+        {
+            "data_points": 344,
+            "item_id": 30,
+            "lowest_price": 73.85111289825977,
+            "average_price": 120.5979719323203,
+            "highest_price": 203.0905604702144,
+            "item_name": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment, Utilities (Monthly)"
+        },
+        {
+            "data_points": 116,
+            "item_id": 32,
+            "lowest_price": 0.05973251778535718,
+            "average_price": 0.1934704812900465,
+            "highest_price": 0.32255559604092876,
+            "item_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans), Utilities (Monthly)"
+        },
+        {
+            "data_points": 344,
+            "item_id": 33,
+            "lowest_price": 29.866258892678587,
+            "average_price": 39.345792398781114,
+            "highest_price": 59.732517785357174,
+            "item_name": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL), Utilities (Monthly)"
+        },
+        {
+            "data_points": 411,
+            "item_id": 40,
+            "lowest_price": 24.848727398708586,
+            "average_price": 38.34242633130632,
+            "highest_price": 59.67278526757182,
+            "item_name": "Fitness Club, Monthly Fee for 1 Adult, Sports And Leisure"
+        },
+        {
+            "data_points": 143,
+            "item_id": 42,
+            "lowest_price": 7.167902134242861,
+            "average_price": 14.327670478829845,
+            "highest_price": 23.89300711414287,
+            "item_name": "Tennis Court Rent (1 Hour on Weekend), Sports And Leisure"
+        },
+        {
+            "data_points": 264,
+            "item_id": 44,
+            "lowest_price": 7.167902134242861,
+            "average_price": 8.362552489950005,
+            "highest_price": 9.557202845657148,
+            "item_name": "Cinema, International Release, 1 Seat, Sports And Leisure"
+        },
+        {
+            "data_points": 294,
+            "item_id": 60,
+            "lowest_price": 34.64486031550716,
+            "average_price": 93.1275283625475,
+            "highest_price": 119.46503557071435,
+            "item_name": "1 Pair of Jeans (Levis 501 Or Similar), Clothing And Shoes"
+        },
+        {
+            "data_points": 299,
+            "item_id": 62,
+            "lowest_price": 23.89300711414287,
+            "average_price": 34.43314856690297,
+            "highest_price": 53.759266006821456,
+            "item_name": "1 Summer Dress in a Chain Store (Zara, H&M, ...), Clothing And Shoes"
+        },
+        {
+            "data_points": 317,
+            "item_id": 64,
+            "lowest_price": 47.78601422828574,
+            "average_price": 80.1263891597773,
+            "highest_price": 107.51853201364291,
+            "item_name": "1 Pair of Nike Running Shoes (Mid-Range), Clothing And Shoes"
+        },
+        {
+            "data_points": 263,
+            "item_id": 66,
+            "lowest_price": 53.759266006821456,
+            "average_price": 94.68782160925238,
+            "highest_price": 143.35804268485722,
+            "item_name": "1 Pair of Men Leather Business Shoes, Clothing And Shoes"
+        },
+        {
+            "data_points": 126,
+            "item_id": 206,
+            "lowest_price": 28671.608536971446,
+            "average_price": 31055.620735225708,
+            "highest_price": 34525.39527993645,
+            "item_name": "Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car), Transportation"
+        },
+        {
+            "data_points": 179,
+            "item_id": 224,
+            "lowest_price": 298.6625889267859,
+            "average_price": 413.59619211378345,
+            "highest_price": 597.3251778535717,
+            "item_name": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child, Childcare"
+        },
+        {
+            "data_points": 199,
+            "item_id": 100,
+            "lowest_price": 1732.2430157753581,
+            "average_price": 3167.8101052600205,
+            "highest_price": 5973.251778535718,
+            "item_name": "Price per Square Meter to Buy Apartment in City Centre, Buy Apartment Price"
+        },
+        {
+            "data_points": 104,
+            "item_id": 228,
+            "lowest_price": 5017.531494170704,
+            "average_price": 8599.813564380374,
+            "highest_price": 14335.804269059156,
+            "item_name": "International Primary School, Yearly for 1 Child, Childcare"
+        },
+        {
+            "data_points": 199,
+            "item_id": 101,
+            "lowest_price": 1194.6503557071435,
+            "average_price": 2011.4681191733405,
+            "highest_price": 3583.9510671214307,
+            "item_name": "Price per Square Meter to Buy Apartment Outside of Centre, Buy Apartment Price"
+        },
+        {
+            "data_points": 414,
+            "item_id": 105,
+            "average_price": 1012.7149000781066,
+            "item_name": "Average Monthly Net Salary (After Tax), Salaries And Financing"
+        },
+        {
+            "data_points": 135,
+            "item_id": 106,
+            "lowest_price": 1.33,
+            "average_price": 2.2578409090909095,
+            "highest_price": 4,
+            "item_name": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate, Salaries And Financing"
+        },
+        {
+            "data_points": 176,
+            "item_id": 107,
+            "lowest_price": 3.5839510671214305,
+            "average_price": 3.8826136560482163,
+            "highest_price": 4.778601422828574,
+            "item_name": "Taxi Start (Normal Tariff), Transportation"
+        },
+        {
+            "data_points": 94,
+            "item_id": 108,
+            "lowest_price": 0.5614856671823574,
+            "average_price": 0.5973251778535718,
+            "highest_price": 1.1946503557071435,
+            "item_name": "Taxi 1km (Normal Tariff), Transportation"
+        },
+        {
+            "data_points": 83,
+            "item_id": 109,
+            "lowest_price": 17.680825264465724,
+            "average_price": 17.919755335607153,
+            "highest_price": 23.89300711414287,
+            "item_name": "Taxi 1hour Waiting (Normal Tariff), Transportation"
+        },
+        {
+            "data_points": 242,
+            "item_id": 110,
+            "lowest_price": 0.9557202845657149,
+            "average_price": 1.8187741281510268,
+            "highest_price": 2.389300711414287,
+            "item_name": "Apples (1kg), Markets"
+        },
+        {
+            "data_points": 227,
+            "item_id": 111,
+            "lowest_price": 0.8362552489950004,
+            "average_price": 1.453186921915297,
+            "highest_price": 2.389300711414287,
+            "item_name": "Oranges (1kg), Markets"
+        },
+        {
+            "data_points": 210,
+            "item_id": 112,
+            "lowest_price": 0.47786014228285745,
+            "average_price": 1.110347379566486,
+            "highest_price": 1.8517080513460724,
+            "item_name": "Potato (1kg), Markets"
+        },
+        {
+            "data_points": 187,
+            "item_id": 113,
+            "lowest_price": 0.5973251778535718,
+            "average_price": 1.1235844501422607,
+            "highest_price": 1.6366709873187868,
+            "item_name": "Lettuce (1 head), Markets"
+        },
+        {
+            "data_points": 408,
+            "item_id": 114,
+            "lowest_price": 0.7765227312096433,
+            "average_price": 1.6512223675913105,
+            "highest_price": 3.5839510671214305,
+            "item_name": "Cappuccino (regular), Restaurants"
+        },
+        {
+            "data_points": 279,
+            "item_id": 115,
+            "lowest_price": 0.7645762276525718,
+            "average_price": 1.083039651204339,
+            "highest_price": 1.4574734339627151,
+            "item_name": "Rice (white), (1kg), Markets"
+        },
+        {
+            "data_points": 218,
+            "item_id": 116,
+            "lowest_price": 0.9557202845657149,
+            "average_price": 1.6872640838743063,
+            "highest_price": 2.389300711414287,
+            "item_name": "Tomato (1kg), Markets"
+        },
+        {
+            "data_points": 258,
+            "item_id": 118,
+            "lowest_price": 1.0751853201364292,
+            "average_price": 1.2905102832137139,
+            "highest_price": 2.389300711414287,
+            "item_name": "Banana (1kg), Markets"
+        },
+        {
+            "data_points": 203,
+            "item_id": 119,
+            "lowest_price": 0.7167902134242861,
+            "average_price": 1.2145827692690592,
+            "highest_price": 1.8994940655743582,
+            "item_name": "Onion (1kg), Markets"
+        },
+        {
+            "data_points": 207,
+            "item_id": 121,
+            "lowest_price": 5.973251778535717,
+            "average_price": 10.930241057970669,
+            "highest_price": 17.919755335607153,
+            "item_name": "Beef Round (1kg) (or Equivalent Back Leg Red Meat), Markets"
+        }
+    ]
+}
