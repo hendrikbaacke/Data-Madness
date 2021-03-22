@@ -1,24 +1,24 @@
 {
     "name": "Argentina",
     "currency": "USD",
-    "contributors12months": 388,
+    "contributors12months": 389,
     "monthLastUpdate": 3,
-    "contributors": 461,
+    "contributors": 462,
     "yearLastUpdate": 2021,
     "prices": [
         {
-            "data_points": 94,
+            "data_points": 95,
             "item_id": 1,
             "lowest_price": 4.231229648226145,
-            "average_price": 7.140920444044502,
+            "average_price": 7.126445448022166,
             "highest_price": 12.962770921912266,
             "item_name": "Meal, Inexpensive Restaurant, Restaurants"
         },
         {
-            "data_points": 90,
+            "data_points": 91,
             "item_id": 2,
             "lowest_price": 19.003193803438563,
-            "average_price": 26.51647577279195,
+            "average_price": 26.478944678717728,
             "highest_price": 60.95918726994834,
             "item_name": "Meal for 2 People, Mid-range Restaurant, Three-course, Restaurants"
         },
@@ -31,34 +31,34 @@
             "item_name": "McMeal at McDonalds (or Equivalent Combo Meal), Restaurants"
         },
         {
-            "data_points": 88,
+            "data_points": 89,
             "item_id": 4,
             "lowest_price": 0.9925692015702444,
-            "average_price": 1.663738594025342,
+            "average_price": 1.6454479880237713,
             "highest_price": 2.961768426908827,
             "item_name": "Domestic Beer (0.5 liter draught), Restaurants"
         },
         {
-            "data_points": 68,
+            "data_points": 69,
             "item_id": 5,
             "lowest_price": 1.5469080530744153,
-            "average_price": 2.204112287772473,
+            "average_price": 2.237226554984317,
             "highest_price": 4.418014897546234,
             "item_name": "Imported Beer (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 113,
+            "data_points": 114,
             "item_id": 6,
-            "lowest_price": 0.6857270755038539,
-            "average_price": 1.0713077315484447,
+            "lowest_price": 0.6939047407571889,
+            "average_price": 1.0766357440416356,
             "highest_price": 2,
             "item_name": "Coke/Pepsi (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 108,
+            "data_points": 109,
             "item_id": 7,
             "lowest_price": 0.5783737495125755,
-            "average_price": 0.7866515373564965,
+            "average_price": 0.7929173994324719,
             "highest_price": 1.176841985720788,
             "item_name": "Water (0.33 liter bottle) , Restaurants"
         },
@@ -397,10 +397,10 @@
             "item_name": "Lettuce (1 head), Markets"
         },
         {
-            "data_points": 114,
+            "data_points": 115,
             "item_id": 114,
             "lowest_price": 0.7921043042947895,
-            "average_price": 1.750990306478412,
+            "average_price": 1.7503104357253665,
             "highest_price": 3.080942521936311,
             "item_name": "Cappuccino (regular), Restaurants"
         },

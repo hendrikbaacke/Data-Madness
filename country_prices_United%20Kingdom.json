@@ -1,13 +1,13 @@
 {
     "name": "United Kingdom",
     "currency": "USD",
-    "contributors12months": 3080,
+    "contributors12months": 3085,
     "monthLastUpdate": 3,
-    "contributors": 6839,
+    "contributors": 6844,
     "yearLastUpdate": 2021,
     "prices": [
         {
-            "data_points": 1236,
+            "data_points": 1237,
             "item_id": 1,
             "lowest_price": 11.096069772086729,
             "average_price": 16.644104658130093,
@@ -31,7 +31,7 @@
             "item_name": "McMeal at McDonalds (or Equivalent Combo Meal), Restaurants"
         },
         {
-            "data_points": 1143,
+            "data_points": 1142,
             "item_id": 4,
             "lowest_price": 3.4675218037771023,
             "average_price": 5.131932269590112,
@@ -39,7 +39,7 @@
             "item_name": "Domestic Beer (0.5 liter draught), Restaurants"
         },
         {
-            "data_points": 878,
+            "data_points": 879,
             "item_id": 5,
             "lowest_price": 4.161026164532523,
             "average_price": 5.548034886043364,
@@ -47,18 +47,18 @@
             "item_name": "Imported Beer (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 1415,
+            "data_points": 1417,
             "item_id": 6,
             "lowest_price": 1.387008721510841,
-            "average_price": 1.8441905090345043,
-            "highest_price": 2.9999999999999996,
+            "average_price": 1.8453048784868555,
+            "highest_price": 3.0514191873238508,
             "item_name": "Coke/Pepsi (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 1374,
+            "data_points": 1375,
             "item_id": 7,
             "lowest_price": 0.9709061050575887,
-            "average_price": 1.3396138773692572,
+            "average_price": 1.3390463061785831,
             "highest_price": 2.635316570870598,
             "item_name": "Water (0.33 liter bottle) , Restaurants"
         },
@@ -103,7 +103,7 @@
             "item_name": "Water (1.5 liter bottle), Markets"
         },
         {
-            "data_points": 829,
+            "data_points": 830,
             "item_id": 14,
             "lowest_price": 6.935043607554205,
             "average_price": 9.709061050575887,
@@ -111,18 +111,18 @@
             "item_name": "Bottle of Wine (Mid-Range), Markets"
         },
         {
-            "data_points": 719,
+            "data_points": 720,
             "item_id": 15,
             "lowest_price": 1.387008721510841,
-            "average_price": 2.3969786826457598,
+            "average_price": 2.396006104713002,
             "highest_price": 3.9628820614595455,
             "item_name": "Domestic Beer (0.5 liter bottle), Markets"
         },
         {
-            "data_points": 629,
+            "data_points": 630,
             "item_id": 16,
             "lowest_price": 1.387008721510841,
-            "average_price": 2.6578430485263556,
+            "average_price": 2.658126400708051,
             "highest_price": 4.161026164532523,
             "item_name": "Imported Beer (0.33 liter bottle), Markets"
         },
@@ -175,10 +175,10 @@
             "item_name": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car), Transportation"
         },
         {
-            "data_points": 1710,
+            "data_points": 1711,
             "item_id": 26,
             "lowest_price": 633.4006494899508,
-            "average_price": 1041.8535972560087,
+            "average_price": 1041.7275434120968,
             "highest_price": 2340.328925864829,
             "item_name": "Apartment (1 bedroom) in City Centre, Rent Per Month"
         },
@@ -207,10 +207,10 @@
             "item_name": "Apartment (3 bedrooms) Outside of Centre, Rent Per Month"
         },
         {
-            "data_points": 1260,
+            "data_points": 1261,
             "item_id": 30,
             "lowest_price": 89.90599400160316,
-            "average_price": 214.50168708770556,
+            "average_price": 214.57839447455245,
             "highest_price": 416.10261645325227,
             "item_name": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment, Utilities (Monthly)"
         },
@@ -223,7 +223,7 @@
             "item_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans), Utilities (Monthly)"
         },
         {
-            "data_points": 1525,
+            "data_points": 1526,
             "item_id": 33,
             "lowest_price": 34.661347950555914,
             "average_price": 43.2690428691287,
@@ -231,10 +231,10 @@
             "item_name": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL), Utilities (Monthly)"
         },
         {
-            "data_points": 1742,
+            "data_points": 1743,
             "item_id": 40,
             "lowest_price": 22.192139544173457,
-            "average_price": 42.66484846952113,
+            "average_price": 42.651687381303056,
             "highest_price": 69.35043607554205,
             "item_name": "Fitness Club, Monthly Fee for 1 Adult, Sports And Leisure"
         },
@@ -327,9 +327,9 @@
             "item_name": "Price per Square Meter to Buy Apartment Outside of Centre, Buy Apartment Price"
         },
         {
-            "data_points": 1448,
+            "data_points": 1450,
             "item_id": 105,
-            "average_price": 2678.1992463048846,
+            "average_price": 2678.006686869481,
             "item_name": "Average Monthly Net Salary (After Tax), Salaries And Financing"
         },
         {
@@ -397,10 +397,10 @@
             "item_name": "Lettuce (1 head), Markets"
         },
         {
-            "data_points": 1496,
+            "data_points": 1497,
             "item_id": 114,
             "lowest_price": 2.635316570870598,
-            "average_price": 3.810047127174154,
+            "average_price": 3.810051466863045,
             "highest_price": 5.548034886043364,
             "item_name": "Cappuccino (regular), Restaurants"
         },

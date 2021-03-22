@@ -1,9 +1,9 @@
 {
     "name": "Denmark",
     "currency": "USD",
-    "contributors12months": 426,
+    "contributors12months": 428,
     "monthLastUpdate": 3,
-    "contributors": 859,
+    "contributors": 861,
     "yearLastUpdate": 2021,
     "prices": [
         {
@@ -223,7 +223,7 @@
             "item_name": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans), Utilities (Monthly)"
         },
         {
-            "data_points": 163,
+            "data_points": 164,
             "item_id": 33,
             "lowest_price": 24.060389653198353,
             "average_price": 38.7169896307261,
@@ -327,9 +327,9 @@
             "item_name": "Price per Square Meter to Buy Apartment Outside of Centre, Buy Apartment Price"
         },
         {
-            "data_points": 186,
+            "data_points": 187,
             "item_id": 105,
-            "average_price": 3643.249388472055,
+            "average_price": 3649.0510029876905,
             "item_name": "Average Monthly Net Salary (After Tax), Salaries And Financing"
         },
         {

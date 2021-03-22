@@ -1,9 +1,9 @@
 {
     "name": "India",
     "currency": "USD",
-    "contributors12months": 5331,
+    "contributors12months": 5334,
     "monthLastUpdate": 3,
-    "contributors": 8496,
+    "contributors": 8499,
     "yearLastUpdate": 2021,
     "prices": [
         {
@@ -15,7 +15,7 @@
             "item_name": "Meal, Inexpensive Restaurant, Restaurants"
         },
         {
-            "data_points": 1335,
+            "data_points": 1336,
             "item_id": 2,
             "lowest_price": 6.910974594483362,
             "average_price": 11.057559351173378,
@@ -23,7 +23,7 @@
             "item_name": "Meal for 2 People, Mid-range Restaurant, Three-course, Restaurants"
         },
         {
-            "data_points": 859,
+            "data_points": 860,
             "item_id": 3,
             "lowest_price": 3.040828821572679,
             "average_price": 4.146584756690017,
@@ -47,10 +47,10 @@
             "item_name": "Imported Beer (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 1840,
+            "data_points": 1841,
             "item_id": 6,
             "lowest_price": 0.27643898377933446,
-            "average_price": 0.46347607470502333,
+            "average_price": 0.46366623459202694,
             "highest_price": 0.6910974594483361,
             "item_name": "Coke/Pepsi (0.33 liter bottle), Restaurants"
         },
@@ -159,10 +159,10 @@
             "item_name": "Monthly Pass (Regular Price), Transportation"
         },
         {
-            "data_points": 2396,
+            "data_points": 2397,
             "item_id": 24,
             "lowest_price": 0.9675364432276706,
-            "average_price": 1.0995797745083458,
+            "average_price": 1.099663529289173,
             "highest_price": 1.2439754270070051,
             "item_name": "Gasoline (1 liter), Transportation"
         },
@@ -327,9 +327,9 @@
             "item_name": "Price per Square Meter to Buy Apartment Outside of Centre, Buy Apartment Price"
         },
         {
-            "data_points": 1974,
+            "data_points": 1975,
             "item_id": 105,
-            "average_price": 446.9710386283016,
+            "average_price": 447.11810920779084,
             "item_name": "Average Monthly Net Salary (After Tax), Salaries And Financing"
         },
         {

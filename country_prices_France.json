@@ -1,21 +1,21 @@
 {
     "name": "France",
     "currency": "USD",
-    "contributors12months": 972,
+    "contributors12months": 973,
     "monthLastUpdate": 3,
-    "contributors": 2067,
+    "contributors": 2068,
     "yearLastUpdate": 2021,
     "prices": [
         {
-            "data_points": 415,
+            "data_points": 416,
             "item_id": 1,
             "lowest_price": 10.734848060153316,
-            "average_price": 15.929619950595843,
+            "average_price": 16.01594602041291,
             "highest_price": 23.855217911451817,
             "item_name": "Meal, Inexpensive Restaurant, Restaurants"
         },
         {
-            "data_points": 374,
+            "data_points": 375,
             "item_id": 2,
             "lowest_price": 41.746631345040676,
             "average_price": 59.63804477862954,
@@ -31,7 +31,7 @@
             "item_name": "McMeal at McDonalds (or Equivalent Combo Meal), Restaurants"
         },
         {
-            "data_points": 332,
+            "data_points": 333,
             "item_id": 4,
             "lowest_price": 4.174663134504068,
             "average_price": 7.156565373435544,
@@ -39,7 +39,7 @@
             "item_name": "Domestic Beer (0.5 liter draught), Restaurants"
         },
         {
-            "data_points": 261,
+            "data_points": 262,
             "item_id": 5,
             "lowest_price": 4.174663134504068,
             "average_price": 5.963804477862954,
@@ -47,34 +47,34 @@
             "item_name": "Imported Beer (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 364,
+            "data_points": 365,
             "item_id": 6,
             "lowest_price": 2.1469696120306634,
-            "average_price": 2.9984840178545245,
+            "average_price": 2.9999178266349813,
             "highest_price": 4.771043582290363,
             "item_name": "Coke/Pepsi (0.33 liter bottle), Restaurants"
         },
         {
-            "data_points": 346,
+            "data_points": 347,
             "item_id": 7,
             "lowest_price": 1.1927608955725908,
-            "average_price": 1.9926788837442722,
+            "average_price": 1.991778275158496,
             "highest_price": 3.578282686717772,
             "item_name": "Water (0.33 liter bottle) , Restaurants"
         },
         {
-            "data_points": 314,
+            "data_points": 315,
             "item_id": 8,
             "lowest_price": 0.906498280635169,
-            "average_price": 1.177198580301025,
+            "average_price": 1.1790199977836755,
             "highest_price": 1.789141343358886,
             "item_name": "Milk (regular), (1 liter), Markets"
         },
         {
-            "data_points": 281,
+            "data_points": 282,
             "item_id": 9,
             "lowest_price": 1.0615571970596058,
-            "average_price": 1.675537769535358,
+            "average_price": 1.6793963783484547,
             "highest_price": 3.578282686717772,
             "item_name": "Loaf of Fresh White Bread (500g), Markets"
         },
@@ -87,10 +87,10 @@
             "item_name": "Eggs (regular) (12), Markets"
         },
         {
-            "data_points": 217,
+            "data_points": 218,
             "item_id": 12,
             "lowest_price": 8.349326269008136,
-            "average_price": 18.037569041055423,
+            "average_price": 18.057399437079653,
             "highest_price": 35.782826867177725,
             "item_name": "Local Cheese (1kg), Markets"
         },
@@ -103,7 +103,7 @@
             "item_name": "Water (1.5 liter bottle), Markets"
         },
         {
-            "data_points": 225,
+            "data_points": 226,
             "item_id": 14,
             "lowest_price": 4.771043582290363,
             "average_price": 8.349326269008136,
@@ -119,10 +119,10 @@
             "item_name": "Domestic Beer (0.5 liter bottle), Markets"
         },
         {
-            "data_points": 149,
+            "data_points": 150,
             "item_id": 16,
             "lowest_price": 1.1927608955725908,
-            "average_price": 2.697852994728108,
+            "average_price": 2.709271177086314,
             "highest_price": 4.771043582290363,
             "item_name": "Imported Beer (0.33 liter bottle), Markets"
         },
@@ -397,10 +397,10 @@
             "item_name": "Lettuce (1 head), Markets"
         },
         {
-            "data_points": 432,
+            "data_points": 433,
             "item_id": 114,
             "lowest_price": 1.431313074687109,
-            "average_price": 3.361742720996723,
+            "average_price": 3.3667402417814523,
             "highest_price": 5.963804477862954,
             "item_name": "Cappuccino (regular), Restaurants"
         },

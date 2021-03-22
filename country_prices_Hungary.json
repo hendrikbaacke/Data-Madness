@@ -1,13 +1,13 @@
 {
     "name": "Hungary",
     "currency": "USD",
-    "contributors12months": 640,
+    "contributors12months": 641,
     "monthLastUpdate": 3,
-    "contributors": 1017,
+    "contributors": 1018,
     "yearLastUpdate": 2021,
     "prices": [
         {
-            "data_points": 243,
+            "data_points": 244,
             "item_id": 1,
             "lowest_price": 3.902043769563141,
             "average_price": 6.503406282605235,
@@ -15,7 +15,7 @@
             "item_name": "Meal, Inexpensive Restaurant, Restaurants"
         },
         {
-            "data_points": 220,
+            "data_points": 221,
             "item_id": 2,
             "lowest_price": 22.761921989118324,
             "average_price": 32.517031413026174,
@@ -63,42 +63,42 @@
             "item_name": "Water (0.33 liter bottle) , Restaurants"
         },
         {
-            "data_points": 339,
+            "data_points": 340,
             "item_id": 8,
             "lowest_price": 0.5503029375016254,
-            "average_price": 0.7836928224450248,
+            "average_price": 0.7830894188514298,
             "highest_price": 0.9755109423907853,
             "item_name": "Milk (regular), (1 liter), Markets"
         },
         {
-            "data_points": 329,
+            "data_points": 330,
             "item_id": 9,
             "lowest_price": 0.48775547119539264,
-            "average_price": 0.7670980438575763,
+            "average_price": 0.7669330911270439,
             "highest_price": 1.3006812565210468,
             "item_name": "Loaf of Fresh White Bread (500g), Markets"
         },
         {
-            "data_points": 340,
+            "data_points": 341,
             "item_id": 11,
-            "lowest_price": 1.283772400237624,
-            "average_price": 1.8288632365745314,
+            "lowest_price": 1.268164225108021,
+            "average_price": 1.8276558233822482,
             "highest_price": 2.3412262618315336,
             "item_name": "Eggs (regular) (12), Markets"
         },
         {
-            "data_points": 287,
+            "data_points": 288,
             "item_id": 12,
             "lowest_price": 4.552384397823665,
-            "average_price": 6.360221761948221,
+            "average_price": 6.36963152839135,
             "highest_price": 11.380960994559162,
             "item_name": "Local Cheese (1kg), Markets"
         },
         {
-            "data_points": 321,
+            "data_points": 322,
             "item_id": 13,
             "lowest_price": 0.22761921989118322,
-            "average_price": 0.37306139307705194,
+            "average_price": 0.37360755535380596,
             "highest_price": 0.48775547119539264,
             "item_name": "Water (1.5 liter bottle), Markets"
         },
@@ -143,10 +143,10 @@
             "item_name": "One-way Ticket (Local Transport), Transportation"
         },
         {
-            "data_points": 307,
+            "data_points": 308,
             "item_id": 19,
             "lowest_price": 3.2517031413026176,
-            "average_price": 4.771402862906101,
+            "average_price": 4.775975388450249,
             "highest_price": 5.853065654344712,
             "item_name": "Chicken Fillets (1kg), Markets"
         },
@@ -365,26 +365,26 @@
             "item_name": "Taxi 1hour Waiting (Normal Tariff), Transportation"
         },
         {
-            "data_points": 287,
+            "data_points": 288,
             "item_id": 110,
             "lowest_price": 0.6503406282605234,
-            "average_price": 1.503506327160294,
+            "average_price": 1.5015626557363346,
             "highest_price": 1.9510218847815706,
             "item_name": "Apples (1kg), Markets"
         },
         {
-            "data_points": 252,
+            "data_points": 253,
             "item_id": 111,
             "lowest_price": 0.9722592392494827,
-            "average_price": 1.6436764555539372,
+            "average_price": 1.6435684259484666,
             "highest_price": 2.3855217911451816,
             "item_name": "Oranges (1kg), Markets"
         },
         {
-            "data_points": 278,
+            "data_points": 279,
             "item_id": 112,
             "lowest_price": 0.4747486586301821,
-            "average_price": 0.9262731891597712,
+            "average_price": 0.9245639405159304,
             "highest_price": 1.3006812565210468,
             "item_name": "Potato (1kg), Markets"
         },
@@ -405,43 +405,43 @@
             "item_name": "Cappuccino (regular), Restaurants"
         },
         {
-            "data_points": 271,
+            "data_points": 272,
             "item_id": 115,
             "lowest_price": 0.7966672696191412,
-            "average_price": 1.2369789634427837,
+            "average_price": 1.2336721466889164,
             "highest_price": 1.8502190874011892,
             "item_name": "Rice (white), (1kg), Markets"
         },
         {
-            "data_points": 285,
+            "data_points": 286,
             "item_id": 116,
-            "lowest_price": 0.9690075361081799,
-            "average_price": 1.7137856270476726,
+            "lowest_price": 0.9592524266842721,
+            "average_price": 1.70681019934133,
             "highest_price": 2.6013625130420936,
             "item_name": "Tomato (1kg), Markets"
         },
         {
-            "data_points": 303,
+            "data_points": 304,
             "item_id": 118,
             "lowest_price": 1.1348443963146135,
-            "average_price": 1.4239532134459532,
+            "average_price": 1.425431260328363,
             "highest_price": 1.6258515706513088,
             "item_name": "Banana (1kg), Markets"
         },
         {
-            "data_points": 266,
+            "data_points": 267,
             "item_id": 119,
             "lowest_price": 0.5527895340214449,
-            "average_price": 0.9336291523373969,
+            "average_price": 0.9338698522802324,
             "highest_price": 1.3006812565210468,
             "item_name": "Onion (1kg), Markets"
         },
         {
-            "data_points": 236,
+            "data_points": 237,
             "item_id": 121,
             "lowest_price": 5.690480497279581,
-            "average_price": 8.080587880914319,
-            "highest_price": 11.380960994559162,
+            "average_price": 8.095586991696603,
+            "highest_price": 12.031301622819683,
             "item_name": "Beef Round (1kg) (or Equivalent Back Leg Red Meat), Markets"
         }
     ]
