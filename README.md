@@ -1,4 +1,4 @@
-# Data-Madness
+# Data-Madness: Data Professional Salary Comparison for Different Countries
 
 **Important Note:** The data that was retrieved from Numbeo's API can be found in the JSON_files.rar folder. The API key will only be valid until 27/03/21 which means that retrieving the data directly from the notebook after that date will not be possible anymore.
 
