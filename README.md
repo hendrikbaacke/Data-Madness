@@ -16,3 +16,5 @@ A rough outline of the analysis steps and techniques used:
 + We look into whether pursuing a Masters degree is actually worth it from a monetary perspective and investigate whether that differs from country to country.
 + Last but not least we provide an informed advice on which country(ies) might be worth looking into if you plan to relocate.
 
+
+Project product video link: https://youtu.be/YqebhyEY7Xk
