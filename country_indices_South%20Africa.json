@@ -2,7 +2,7 @@
     "crime_index": 76.89878020610028,
     "traffic_time_index": 39.404230769230765,
     "cpi_and_rent_index": 30.274822383162654,
-    "purchasing_power_incl_rent_index": 73.833082450366,
+    "purchasing_power_incl_rent_index": 73.20746056837241,
     "restaurant_price_index": 38.61744257022473,
     "property_price_to_income_ratio": 3.8002319507333953,
     "contributors_cost_of_living": 1330,
@@ -13,14 +13,14 @@
     "cpi_index": 42.27120568604496,
     "traffic_inefficiency_index": 243.1271307688551,
     "contributors_traffic": 802,
-    "quality_of_life_index": 132.82241439257143,
+    "quality_of_life_index": 132.57124739040552,
     "rent_index": 16.478171547427266,
-    "contributors_pollution": 753,
+    "contributors_pollution": 754,
     "health_care_index": 63.91362033196432,
     "contributors_crime": 2734,
     "traffic_index": 191.68278718027258,
     "groceries_index": 34.78624451712074,
     "name": "South Africa",
     "contributors_property": 345,
-    "pollution_index": 56.7724604620549
+    "pollution_index": 56.77383783610762
 }
