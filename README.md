@@ -4,7 +4,7 @@
 
 ## Short Project Description
 
-The objective of the project is to determine the best country to live in as a freshly graduated Data Science student when looking at a diverse range of requirements from best average salary and purchasing power to the quality of life at the different candidate destinations. The analysis follows the narrative of Eve, an ambitious young data scientist.
+The objective of the project is to determine the best country to live in as a freshly graduated Data Science student when taking into account a diverse range of requirements from best average salary and purchasing power to the quality of life at the different candidate destinations. The analysis follows the narrative of Eve, an ambitious young data scientist.
 
 ### Analysis Outline
 A rough outline of the analysis steps and techniques used:
